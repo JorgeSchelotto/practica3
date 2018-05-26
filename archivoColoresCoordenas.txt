@@ -1,0 +1,5 @@
+rojo : 2, 3
+verde : 23, 58
+azul : 5, 8
+amarillo : 2, 3
+fucsia : 23, 58
