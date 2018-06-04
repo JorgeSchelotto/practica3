@@ -1,0 +1,1 @@
+[["ser", 4], ["crear", 3], ["poseer", 2], ["decir", 1]]

@@ -28,7 +28,7 @@ while(jugador != 'cancelar'):
 file = open('csv.csv', 'w')
 
 with file:
-    Fields = ['Jugador' , 'Nivel' , 'Puntaje' , 'Tiempo de juego']
+    Fields = ['Jugador', 'Jugador' , 'Nivel' , 'Puntaje' , 'Tiempo de juego']
     writer = csv.DictWriter(file, fieldnames = Fields)
 
     writer.writeheader()
